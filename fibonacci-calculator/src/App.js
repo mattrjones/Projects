@@ -1,10 +1,10 @@
-import Fibonacci from './components/Fibonacci';
 import './App.css';
+import Form from './components/Form';
 
 function App() {
   return (
     <div className="App">
-      <Fibonacci/>
+      <Form/>
     </div>
   );
 }

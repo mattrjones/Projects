@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.inputBox {
+  width: 3vmin;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
